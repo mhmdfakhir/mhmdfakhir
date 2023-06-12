@@ -11,3 +11,4 @@ I am Mohammad and I am a passionate and dedicated computer science student at UB
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I built a Flight Information Display which modelled those used at airports.
 
+![](https://komarev.com/ghpvc/?username=codeproduction&color=brightgreen&style=flat-square)

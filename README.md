@@ -1,4 +1,4 @@
-## Hi there
+## Hi there!
 
 Technology and planes have always fascinated me and I have always wanted to build a career around them. Currently, I am focused on aviation, specifically Network Planning, Revenue Management, and Aviation/Airline Operations. 
 
